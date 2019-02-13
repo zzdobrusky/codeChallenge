@@ -1,0 +1,24 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzdobrusky/codeChallenge.git"
+  },
+  "author": "zbynek dusatko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzdobrusky/codeChallenge/issues"
+  },
+  "homepage": "https://github.com/zzdobrusky/codeChallenge#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "url-parse": "^1.4.4"
+  }
+}
